@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\SingletonPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A40C59EF-47DE-4746-9DF0-F5B96C985153}|SingletonPattern\\SingletonPattern.csproj|c:\\users\\atleh\\onedrive - advtech ltd\\source\\source\\repos\\singletonpattern\\singletonpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40C59EF-47DE-4746-9DF0-F5B96C985153}|SingletonPattern\\SingletonPattern.csproj|solutionrelative:singletonpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40C59EF-47DE-4746-9DF0-F5B96C985153}|SingletonPattern\\SingletonPattern.csproj|c:\\users\\atleh\\onedrive - advtech ltd\\source\\source\\repos\\singletonpattern\\singletonpattern\\clientresourcelistwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40C59EF-47DE-4746-9DF0-F5B96C985153}|SingletonPattern\\SingletonPattern.csproj|solutionrelative:singletonpattern\\clientresourcelistwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40C59EF-47DE-4746-9DF0-F5B96C985153}|SingletonPattern\\SingletonPattern.csproj|c:\\users\\atleh\\onedrive - advtech ltd\\source\\source\\repos\\singletonpattern\\singletonpattern\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40C59EF-47DE-4746-9DF0-F5B96C985153}|SingletonPattern\\SingletonPattern.csproj|solutionrelative:singletonpattern\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientResourceListWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\SingletonPattern\\SingletonPattern\\ClientResourceListWrapper.cs",
+              "RelativeDocumentMoniker": "SingletonPattern\\ClientResourceListWrapper.cs",
+              "ToolTip": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\SingletonPattern\\SingletonPattern\\ClientResourceListWrapper.cs",
+              "RelativeToolTip": "SingletonPattern\\ClientResourceListWrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:37:23.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resource.cs",
+              "DocumentMoniker": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\SingletonPattern\\SingletonPattern\\Resource.cs",
+              "RelativeDocumentMoniker": "SingletonPattern\\Resource.cs",
+              "ToolTip": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\SingletonPattern\\SingletonPattern\\Resource.cs",
+              "RelativeToolTip": "SingletonPattern\\Resource.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvxkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:36:13.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\SingletonPattern\\SingletonPattern\\Program.cs",
+              "RelativeDocumentMoniker": "SingletonPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\SingletonPattern\\SingletonPattern\\Program.cs",
+              "RelativeToolTip": "SingletonPattern\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:35:32.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
